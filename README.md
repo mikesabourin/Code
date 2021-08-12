@@ -1,2 +1,2 @@
 # Personal Repository
-Contain scripts/code used frequently.
+Contains scripts/code used frequently.
